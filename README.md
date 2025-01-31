@@ -1,15 +1,15 @@
-## Hi there 👋
+### Hi there 👋, This is Asiful Pranto
+#### Web Developer
+![Web Developer](https://github.com/asiful-i-pranto/asiful-i-pranto/blob/main/image/GitHub%20Banner.png?raw=true/banner.png)
+
+A problem solver and lifelong learner. Besides my mechanical engineering background, I am very passionate about Programming, Machine Learning, and Web Dev. Currently, working on Front-End and WordPress (Both Coded and Non-coded) Development. 
+
+Skills: REACT / JS / HTML / CSS / PHP / Bootstrap / WordPress
+
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning Machine Learning 
+- 💬 Ask me about Web Development 
 
 
-**asiful-i-pranto/asiful-i-pranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/asiful-i-pranto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asiful-i-pranto//)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
