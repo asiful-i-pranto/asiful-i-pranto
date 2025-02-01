@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS / PHP / Bootstrap / WordPress
 - 💬 Ask me about Web Development
 - 📫 How to reach me **contact@asifulpranto.com**
 
-
+<-- Social Icons -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,7 @@ Skills: REACT / JS / HTML / CSS / PHP / Bootstrap / WordPress
 <a href="https://kaggle.com/mdasifulislam091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdasifulislam091" height="30" width="40" /></a>
 </p>
 
-
+<-- Tech Icons -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -54,6 +54,13 @@ Skills: REACT / JS / HTML / CSS / PHP / Bootstrap / WordPress
 
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/asiful-i-pranto/asiful-i-pranto/blob/main/image/wordpress%20icon%20-%2064px.png?raw=true" alt="php" width="40" height="40"/>
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -118,12 +125,7 @@ Skills: REACT / JS / HTML / CSS / PHP / Bootstrap / WordPress
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a> 
+   
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a> 
@@ -137,3 +139,8 @@ Skills: REACT / JS / HTML / CSS / PHP / Bootstrap / WordPress
   
 </p>
 
+<-- GitHub Stat -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiful-i-pranto&show_icons=true&locale=en" alt="asiful-i-pranto" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asiful-i-pranto&" alt="asiful-i-pranto" /></p>
