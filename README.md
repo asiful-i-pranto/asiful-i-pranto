@@ -52,8 +52,8 @@ Skills: REACT / JS / HTML / CSS / PHP / Bootstrap / WordPress
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a> 
 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github.com/asiful-i-pranto/asiful-i-pranto/blob/main/image/wordpress.png?raw=true" alt="php" width="40" height="40"/>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/asiful-i-pranto/asiful-i-pranto/blob/main/image/wordpress%20icon%20-%2064px.png?raw=true" alt="php" width="40" height="40"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
