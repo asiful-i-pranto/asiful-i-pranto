@@ -21,7 +21,7 @@ A problem solver and lifelong learner. Besides my mechanical engineering backgro
 <a href="https://wa.me/8801911122773" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mdasifulislam091" height="30" width="40" /></a>
 
 </a>
-<a href="mailto:contact@asifulpranto.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="mdasifulislam091" height="30" width="40" /></a>
+<a href="mailto:contact@asifulpranto.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="mdasifulislam091" height="50" width="50" /></a>
 </p>
 
 
