@@ -3,7 +3,7 @@
 
 ![Web Developer](https://github.com/asiful-i-pranto/asiful-i-pranto/blob/main/image/GitHub%20Banner%20-%20Compressed.png?raw=true)
 
-#### About Me
+### About Me
 A problem solver and lifelong learner. Besides my mechanical engineering background, I am very passionate about Programming, Machine Learning, and Web Dev. Currently, working on Front-End and WordPress (Both Coded and Non-coded) Development. 
 
 -👨‍🎓 Graduated with Bachelor of Science degree in Mechanical Engineering
@@ -11,7 +11,7 @@ A problem solver and lifelong learner. Besides my mechanical engineering backgro
 - 💬 Ask me about Web Development and Data Science.
 - 📫 How to reach me **contact@asifulpranto.com**
 
-#### Connect with me:
+### Connect with me:
 
 <p align="left">
 </a>
@@ -25,7 +25,7 @@ A problem solver and lifelong learner. Besides my mechanical engineering backgro
 </p>
 
 
-#### Tech and Tool Stack:
+### Tech and Tool Stack:
 
 <p align="left">
 
