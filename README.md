@@ -27,8 +27,6 @@ A problem solver and lifelong learner. Besides my mechanical engineering backgro
 
 #### Tech and Tool Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
-
 <p align="left">
 
   <a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
