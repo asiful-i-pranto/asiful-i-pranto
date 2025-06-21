@@ -6,11 +6,23 @@
 ### About Me
 A problem solver and lifelong learner. Besides my mechanical engineering background, I am very passionate about Programming, Machine Learning, and Web Dev. Currently, working on Front-End and WordPress (Both Coded and Non-coded) Development. 
 
-
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about Web Development
 - 📫 How to reach me **contact@asifulpranto.com**
+
+### Connect with me:
+
+<p align="left">
+</a>
+<a href="https://linkedin.com/in/asiful-i-pranto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asiful-i-pranto" height="30" width="40" /></a>
+<a href="https://kaggle.com/mdasifulislam091" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdasifulislam091" height="30" width="40" /></a>
+</a>
+<a href="https://wa.me/8801911122773" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mdasifulislam091" height="30" width="40" /></a>
+
+</a>
+<a href="mailto:contact@asifulpranto.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="mdasifulislam091" height="30" width="40" /></a>
+</p>
 
 
 
@@ -135,15 +147,6 @@ A problem solver and lifelong learner. Besides my mechanical engineering backgro
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiful-i-pranto&layout=compact)
 
-### Connect with me:
-
-<p align="left">
-</a>
-<a href="https://linkedin.com/in/asiful-i-pranto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asiful-i-pranto" height="30" width="40" /></a>
-<a href="https://kaggle.com/mdasifulislam091" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdasifulislam091" height="30" width="40" /></a>
-</a>
-<a href="https://wa.me/8801911122773" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mdasifulislam091" height="30" width="40" /></a>
-</p>
 
 
 
